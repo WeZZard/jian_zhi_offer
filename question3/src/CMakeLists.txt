@@ -1,0 +1,2 @@
+add_executable(solution_hashing solution_hashing.cpp parse_numbers_from_args.cpp)
+add_executable(solution_replacing solution_replacing.cpp parse_numbers_from_args.cpp)
