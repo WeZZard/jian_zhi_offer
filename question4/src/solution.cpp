@@ -3,7 +3,6 @@
 #include <vector>
 #include <string>
 #include <algorithm>
-#include <fstream>
 #include <tclap/CmdLine.h>
 
 bool array_2d_contains_number(const std::vector<std::vector<long>>& array_2d, long number, size_t row_count, size_t column_count);

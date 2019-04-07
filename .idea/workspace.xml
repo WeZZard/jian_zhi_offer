@@ -16,13 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f808927-1c4c-4e71-9954-ca298b17c248" name="Default Changelist" comment="Adds the answer for question 4.">
-      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/question4/src/2_dimensional_array.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/tclap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/question4/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/question4/src/CMakeLists.txt" afterDir="false" />
+    <list default="true" id="8f808927-1c4c-4e71-9954-ca298b17c248" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/question4/src/solution.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/question4/src/solution.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/question3/cmake-build-debug/" />
@@ -39,11 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/question4/src/solution.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
-              <folding>
-                <element signature="e#0#19#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -291,12 +282,20 @@
       <workItem from="1554429819427" duration="992000" />
       <workItem from="1554431029001" duration="9090000" />
       <workItem from="1554457439594" duration="1794000" />
-      <workItem from="1554479299376" duration="12538000" />
+      <workItem from="1554479299376" duration="12610000" />
     </task>
+    <task id="LOCAL-00001" summary="Adds the answer for question 4.">
+      <created>1554605203750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554605203750</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24414000" />
+    <option name="totallyTimeSpent" value="24486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
@@ -313,7 +312,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info active="true" anchor="bottom" id="Messages" order="8" visible="true" weight="0.3295562" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3295562" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295562" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3295562" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3295562" />
@@ -517,11 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/question4/src/solution.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="109" selection-start-line="8" selection-start-column="109" selection-end-line="8" selection-end-column="109" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
